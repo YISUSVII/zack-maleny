@@ -1549,9 +1549,13 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-@media 
-  (-webkit-min-device-pixel-ratio: 2), 
-  (min-resolution: 192dpi) { 
+@media
+  (-webkit-min-device-pixel-ratio: 2),
+  (min-resolution: 192dpi) {
   .cid-ripj0XJoCk {
     background-image: url("../../../assets/images/9-2000x1500.jpg");
+  }
+
+  .mbr-gallery-row {
+    background-color: #262322;
   }
